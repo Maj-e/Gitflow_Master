@@ -46,6 +46,10 @@
   `git pull`
 - **Upload changes:**
   `git push`
+- **Tag a release:**
+  `git tag -a v1.0.0 -m "Release 1.0.0"`
+- **Push tags:**
+  `git push --tags`
 
 ## 📦 Temporary Storage (Stash)
 - **Save unfinished work:**
